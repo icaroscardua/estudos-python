@@ -1,0 +1,17 @@
+Proposta da atividade 1: 
+Siga os seguintes passos em ordem:
+
+1) Crie um dicionário chamado "grades" com esses valores iniciais:
+    - "Alice": 85
+    - "Bob": 90
+    - "Charlie": 78
+
+2) Imprima todos os nomes dos alunos e notas usando essas instruções exatas:
+    - print("Students: ", grades.key())
+    - print("Grades: ", grades.values())
+
+3) Adicione uma nova aluna "Diana" com nota 92;
+
+4) Use o método get() para buscar a nota de Bob e armazene-a em uma variável grades_bob e imprima-a;
+
+5) Remova Charlie do dicionário usando o método pop() e imprima o dicionário atualizado.
