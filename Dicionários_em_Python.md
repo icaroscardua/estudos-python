@@ -1,4 +1,5 @@
-Proposta da atividade 1: 
+🔎Proposta da atividade 1: 
+
 Siga os seguintes passos em ordem:
 
 1) Crie um dicionário chamado "grades" com esses valores iniciais:
@@ -20,6 +21,7 @@ Siga os seguintes passos em ordem:
 
 RESOLUÇÃO:
 
+```python
 grades = {
     "Alice" : 85,
     "Bob" : 90,
@@ -37,3 +39,4 @@ print("Bob's grade:", grades_bob)
 grades.pop("Charlie")
 
 print("Update grades:", grades)
+```
