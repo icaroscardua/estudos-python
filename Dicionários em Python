@@ -15,3 +15,25 @@ Siga os seguintes passos em ordem:
 4) Use o método get() para buscar a nota de Bob e armazene-a em uma variável grades_bob e imprima-a;
 
 5) Remova Charlie do dicionário usando o método pop() e imprima o dicionário atualizado.
+
+
+
+RESOLUÇÃO:
+
+grades = {
+    "Alice" : 85,
+    "Bob" : 90,
+    "Charlie": 78
+}
+
+print("Students: ", grades.key())
+print("Grades: ", grades.values())
+
+grades["Diana"] = 92
+
+grades_bob = grades.get("Bob")
+print("Bob's grade:", grades_bob)
+
+grades.pop("Charlie")
+
+print("Update grades:", grades)
