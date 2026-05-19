@@ -83,3 +83,17 @@ def checagem_inventario (inventario, item):
     else:
         return f"{item} não está no estoque.")
 ```   
+
+
+🔎Proposta de atividade 4 (Interando sobre dicionários):
+
+Crie uma função que recebe um dicionário como argumento. Esta função deve retornar o par chave-valor do dicionário. Caso o dicionário esteja vazio retorne "Sem dados".
+
+```python
+def detalhes_dicionario(dicionario):
+    if len(dicionario) > 0:
+        for key, value in dicionario.items():
+            print(f"{key}:{value}")
+    else:
+        print("Sem dados")
+```
