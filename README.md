@@ -1,7 +1,19 @@
 # Estudando Python
-Repositório para a resolução de exercícios e códigos testes dentro da linguagem de Python.
+Repositório de estudos práticos de Python - **exercícios**, **anotações** e **desafios** resolvidos durante a minha jornada de aprendizado.
 
-🗓️15/05/2026 - 16/05/2026
+## Conteúdo
+- Fundamentos (variáveis, loops, condicionais);
+- Funções e escopos;
+- Estrutura de Dados (listas, dicionários, tuplas);
+- Manipulação de arquivos;
+- Desafios resolvidos;
 
-Na criação deste repositório, no dia 15/05/2026, eu estou estudando Python por fora das faculdades, por meio do site *Coddy.tech*.
-Já finalizei o rpimeiro módulo e estou no segundo, onde estudo sobre dicionários.
+## Progresso
+|Módulo|Status|
+|---|---|
+|Fundamentos|✅ Concluído|
+|Funções e Escopos|✅ Concluído|
+|Estrutura de Dados|🔄Em progresso (Dicionários)|
+
+## Sobre
+Estudante de Engenharia de Software pela UNICEPLAC e cursando Superior em Inteligência Artificial pelo Cruzeiro do Sul. Estudos por foram em outras linguagens e outros recursos.
